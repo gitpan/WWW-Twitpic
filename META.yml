@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                WWW-Twitpic
-version:             0.01
+version:             0.02
 abstract:            Use the twitpic.com simple API from our favorite language.
 license:             ~
 author:              
